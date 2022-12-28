@@ -1,0 +1,40 @@
+h1{
+    background-color: yellowgreen;
+    text-align: center;
+    font-family: Helvetica;
+    height: 80px;
+    padding: 10px;
+    
+}
+
+.imagem{
+    width: 120px;
+    height: 150px;
+}
+
+form{
+    margin: 30px;
+}
+
+p{
+    font-family: verdana;
+    margin: 10px;
+}
+
+label{
+    font-family: helvetica;
+    font-size: 30px;
+}
+
+h5{
+    font-family: helvetica;
+    font-size: 20px;
+}
+
+footer{
+    background-color: yellowgreen;
+    text-align: center;
+    height: 80px;
+    padding: 5px;
+}
+
